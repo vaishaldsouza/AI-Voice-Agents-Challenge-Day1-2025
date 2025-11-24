@@ -1,0 +1,11 @@
+{
+    "drinkType": "cappuccino",
+    "size": "medium",
+    "milk": "none",
+    "extras": [
+        "sugar"
+    ],
+    "name": "Narita",
+    "timestamp": "2025-11-24T16:37:55.493300",
+    "session_id": "session_20251124_163755"
+}
