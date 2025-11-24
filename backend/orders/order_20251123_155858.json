@@ -1,0 +1,11 @@
+{
+    "drinkType": "latte",
+    "size": "medium",
+    "milk": "none",
+    "extras": [
+        "honey"
+    ],
+    "name": "Vishal",
+    "timestamp": "2025-11-23T15:58:58.561606",
+    "session_id": "session_20251123_155858"
+}
