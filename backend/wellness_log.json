@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "2025-11-25T21:42:42.191186",
+        "mood": "low",
+        "energy": "low",
+        "objectives": [
+            "study for the exam"
+        ],
+        "summary": "We focused on breaking down the study goal into a small, manageable step like reviewing notes for 15-20 minutes or focusing on one topic."
+    },
+    {
+        "timestamp": "2025-11-25T22:10:11.008215",
+        "mood": "well",
+        "energy": "medium",
+        "objectives": [
+            "study for 45 minutes"
+        ],
+        "summary": "Remember to take a short break after your 45-minute study session to help recharge."
+    }
+]
