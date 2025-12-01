@@ -1,0 +1,12 @@
+[
+    {
+        "name": "John",
+        "company": "ByteWave Technologies",
+        "email": "john@example.com",
+        "role": null,
+        "use_case": "internal voice agent for support team",
+        "team_size": "twelve support agents",
+        "timeline": "next month",
+        "timestamp": "2025-12-01T02:08:43.712396"
+    }
+]
